@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on exciting web development projects that push boundaries and make a positive impact.
 
-📫 You can reach me via email at [sejalkushwaha768@gmail.com] or connect with me on [LinkedIn]([https://www.linkedin.com/in/sejal-kushwaha17/]).
+📫 You can reach me via email at [sejalkushwaha768@gmail.com] or connect with me on [LinkedIn][https://www.linkedin.com/in/sejal-kushwaha17/].
 
 😄 Pronouns: She/Her
 
